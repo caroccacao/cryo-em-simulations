@@ -1,5 +1,9 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore unwanted directories and files
 ../statistics-project/
 ../statistics-project_backup.zip
 ../Protocols/
 ../Arctis/
-.DS_Store
+../Protcols/
